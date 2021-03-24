@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/omar-elleboudy-9399aa162/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"  height="30" width="40" /></a>
 </p>
-[My Certificates](https://github.com/omarelleboudy/Certificates/tree/main/Certificates)
+[https://github.com/omarelleboudy/Certificates/tree/main/Certificates My Certificates]
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarelleboudy&show_icons=true&locale=en&layout=compact" alt="omarelleboudy" /></p>
 
