@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **.NET Fundmentals, Backend Development and more Theoritical topics.**
 
-- 📫 How to reach me **omaralleboudy@gmail.com**
+- 📫 How to reach me: **omaralleboudy@gmail.com**
 
-- My Certificates: https://github.com/omarelleboudy/Certificates/tree/main/Certificates
+- 📜 My Certificates: **https://git.io/JOUUg**
 
 
 <h3 align="left">Connect with me:</h3>
