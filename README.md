@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarelleboudy" alt="omarelleboudy" /></a> </p>
 
-- 🌱 I’m currently learning **.NET Fundmentals, Backend Development and more Theoritical topics.**
+- 🌱 I’m currently learning **.NET , Backend Development and more Theoritical topics.**
 
 - 📫 How to reach me: **omaralleboudy@gmail.com**
 
